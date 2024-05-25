@@ -38,7 +38,7 @@ export function updateStatus(items, itemId, completed) {
         }
     });
 }
-
+// add new comment
 /**
  * A counter to generate a unique id for a todo item.
  * Can remove this logic when the todo is created using backend/database logic.
